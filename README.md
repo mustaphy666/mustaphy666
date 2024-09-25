@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mustaphy666
-- 👀 I’m interested in ...html/css/javascript
-- 🌱 I’m currently learning ...css
+- 👋 Hi, I’m mustapha 
+- 👀 I’m interested in ...python
+- 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mustaphy666@gmail.com
 
