@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mustapha 
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ... python 
+- 👀 I’m interested in ...Data science 
+- 🌱 I’m currently learning ... python libraries 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mustaphy666@gmail.com
 
